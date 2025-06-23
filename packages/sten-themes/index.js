@@ -1,4 +1,6 @@
-export default {
-    light: require('./light.json'),
-    dark: require('./dark.json'),
+const testTheme = {
+    "editor.background": "#121212",
 }
+
+
+export default testTheme
