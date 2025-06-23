@@ -1,5 +1,5 @@
 const testTheme = {
-    "editor.background": "#121212",
+    "editor.background": "#fff",
 }
 
 
