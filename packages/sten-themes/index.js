@@ -6,11 +6,7 @@ const testTheme = {
     "editor.selectionBackground": "#fff",
     "editor.selectionHighlightBackground": "#fff",
     "editor.wordHighlightBackground": "#fff",
-    "editor.wordHighlightStrongBackground": "#fff",
-    "editorCursor.foreground": "#000",
-    "editorIndentGuide.background": "#000",
-    "editorIndentGuide.activeBackground": "#000",
-    "editorRuler.foreground": "#000",
+    "editor.wordHighlightStrongBackground": "#fff"
 }
 
 
